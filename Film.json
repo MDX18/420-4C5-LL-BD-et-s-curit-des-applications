@@ -21,23 +21,23 @@
 }
 
 {
-  "Titre": "Fight Club",
-  "directeur": "David Fincher",
-  "Auteur": "Chuck Palahniuk, Jim Uhls",
-  "Date": 1999,
-  "Vedette": [
+  "Titre2": "Fight Club",
+  "directeur2": "David Fincher",
+  "Auteur2": "Chuck Palahniuk, Jim Uhls",
+  "Date2": 1999,
+  "Vedette2": [
     {
-      "Nom": "Brad Pitt",
-      "Personnage": "Tyler Durden"
+      "Nom2": "Brad Pitt",
+      "Personnage2": "Tyler Durden"
     },
     {
-      "Nom": "Edward Norton",
-      "Personnage": "Narrateur"
+      "Nom2": "Edward Norton",
+      "Personnage2": "Narrateur"
     },
     {
-      "Nom": "Meat Loaf",
-      "Personnage": "Robert 'Bob' Paulsen"
+      "Nom2": "Meat Loaf",
+      "Personnage2": "Robert 'Bob' Paulsen"
     }
   ],
-  "Description": "Un employé de bureau insomniaque et un fabriquant de savons forment un club de combat clandestin qui devient beaucoup plus que ça."
+  "Description2": "Un employé de bureau insomniaque et un fabriquant de savons forment un club de combat clandestin qui devient beaucoup plus que ça."
 }
